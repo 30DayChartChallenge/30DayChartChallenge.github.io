@@ -1,12 +1,15 @@
 # [Call me Sam: a theme for Hugo](https://victoria.dev/hugo-theme-sam/)
 
-![Main page screenshot](https://github.com/mfg92/hugo-theme-sam/blob/master/images/screenshot.png)
+![Test Hugo versions](https://github.com/victoriadrake/hugo-theme-sam/workflows/test-versions/badge.svg)
+![Latest Release](https://img.shields.io/github/tag/victoriadrake/hugo-theme-sam.svg)
+
+![Main page screenshot](https://github.com/victoriadrake/hugo-theme-sam/blob/master/images/screenshot.png)
 
 Sam is a Simple and Minimalist theme for Hugo. It lets you categorize and showcase your content the way you want to.
 
 Focused on content and typography, the stylized index page is really just a list of navigation links that you can set in your `config.toml`. This versatile design is limited only by your imagination, as you can make it say anything you like. Here are some ideas.
 
-![Index page iterations.](https://github.com/mfg92/hugo-theme-sam/blob/master/images/ideas.png)
+![Index page iterations.](https://github.com/victoriadrake/hugo-theme-sam/blob/master/images/ideas.png)
 
 ## Features
 
@@ -23,18 +26,9 @@ Focused on content and typography, the stylized index page is really just a list
   - Effortless use of Hugo Pipes to generate CSS from Sass files
   - Tested for compatibility with Hugo versions as far back as `0.49.2`
 
-## Differences to vickylai's original version
-
-- Use a more appealing and interactive gallery
-- Add a nice 404 page
-- Remove dependency to google fonts by adding the fonts to the repository
-- use justify sytle for normal text in markdown
-- some small style changes
-
-
 ## Quick start
 
-### Requirements
+## Requirements
 
 Requires the **extended** version of Hugo. You can find [installation instructions here](https://gohugo.io/getting-started/installing/) (latest version recommended). Here's a handy [Bash function for downloading a specific Hugo version](https://victoria.dev/blog/how-to-do-twice-as-much-with-half-the-keystrokes-using-.bashrc/#bash-function-for-downloading-extended-hugo).
 
@@ -59,21 +53,19 @@ cd exampleSite/
 npm i postcss postcss-cli autoprefixer
 ```
 
-### 1. Get the theme
+## 1. Get the theme
 
 Run from the root of your Hugo site:
 
 ```sh
-$ git clone https://github.com/mfg92/hugo-theme-sam themes/sam
+git clone https://github.com/victoriadrake/hugo-theme-sam.git themes/sam
 ```
 
 Alternatively you can include this repository as a [git submodule](https://git-scm.com/book/de/v1/Git-Tools-Submodule). This makes it easier to update this theme if you have your Hugo site in git as well. For this you need to run:
 
 ```sh
-$ git submodule add https://github.com/mfg92/hugo-theme-sam.git themes/sam
+git submodule add https://github.com/victoriadrake/hugo-theme-sam.git themes/sam
 ```
-
-**NOTE:** This theme depends on https://github.com/mfg92/hugo-shortcode-gallery. So make sure you get that theme component in your *themes* folder as well.
 
 ### 2. Configure your site
 
@@ -140,7 +132,7 @@ content/
       └── file_3.jpg
 ```
 
-To automatically generate a gallery from the images, set `type: "gallery"` in the front-matter of `_index.md`. You can also set other options for the gallery:
+To automagically generate a gallery from the images, set `type: "gallery"` in the front-matter of `_index.md`. You can also set other options for the gallery:
 
 - The gallery `title`
 - The page link with `url`
@@ -178,7 +170,7 @@ content/
      └── file_3.jpg
 ```
 
-That's it! Sam's gallery layout template will automatically build the page from your images.
+That's it! Sam's gallery layout template will automagically build the page from your images.
 
 ## Custom video background
 
@@ -214,7 +206,7 @@ You can run the built-in server to preview the site as you make changes to the S
 
 ## Issues
 
-If you have a question or get stuck, please [open an issue](https://github.com/victoriadrake/hugo-theme-introduction/issues) for help and to help those who come after you. The more information you can provide, the better!
+If you have a question or get stuck, please [open an issue](https://github.com/victoriadrake/hugo-theme-sam/issues) for help and to help those who come after you. The more information you can provide, the better!
 
 ## Contributing
 
@@ -226,6 +218,6 @@ Open source themes like this one would not be possible without some amazing __[c
 
 Copyright (C) 2018-2021 [Victoria Drake](https://victoria.dev/)
 
-Licensed under the [Apache License, Version 2.0](https://github.com/victoriadrake/hugo-theme-introduction/blob/master/LICENSE) (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Licensed under the [Apache License, Version 2.0](https://github.com/victoriadrake/hugo-theme-sam/blob/master/LICENSE) (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
+<html>
 
 <head>
     {{ block "head" . }}
@@ -9,6 +9,11 @@
     {{ block "head_resources" . }}
     <!-- Use this block to link to further resources like .js or .css files. -->
     {{ end }}
+    <title>
+        {{ block "title" . }}
+        {{ .Title | markdownify}}
+        {{ end }}
+    </title>
 </head>
 
 <body>
