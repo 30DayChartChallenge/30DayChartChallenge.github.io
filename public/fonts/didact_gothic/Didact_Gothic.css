@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Didact Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Didact Gothic Regular'), local('DidactGothic-Regular'),
+       url('didact-gothic-v14-latin_latin-ext-regular.woff2') format('woff2'),
+       url('didact-gothic-v14-latin_latin-ext-regular.woff') format('woff');
+}
