@@ -5,13 +5,13 @@
   box-sizing: border-box; }
 
 html {
-  background-color: #39424E;
-  font-family: "Didact Gothic", sans-serif;
+  background-color: #5c00b3;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
   font-size: 16px; }
 
 body {
   font-size: 16px;
-  font-family: "Didact Gothic", sans-serif;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
   color: #fff;
   line-height: 2rem;
   letter-spacing: 1.5px;
@@ -29,7 +29,7 @@ header {
       padding: 3em 0; } }
 h1, h2, h3, h4 {
   margin-bottom: 0.5em;
-  font-family: "Didact Gothic", sans-serif;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
   opacity: 0.6; }
 
 li {
@@ -101,6 +101,14 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: flex-start;
+  text-align: left;
+  width: 50%; }
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   align-items: flex-start; }
 
 .bottom-menu {
@@ -120,7 +128,7 @@ nav {
   position: relative;
   bottom: 0;
   padding: 1rem;
-  font-family: "Didact Gothic", sans-serif;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
   font-size: 1rem;
   line-height: 1em;
   opacity: 0.8; }
@@ -132,17 +140,20 @@ nav {
   min-height: calc(100vh - 6em); }
 
 .big-link {
-  font-family: "Didact Gothic", sans-serif;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
   font-size: 3rem;
   font-weight: 300;
   margin-bottom: 2rem;
-  line-height: 1.5em; }
+  line-height: 1.5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
   @media screen and (max-width: 736px) {
     .big-link {
       font-size: 2rem; } }
 #title {
   margin-top: 3rem;
-  font-family: "Didact Gothic", sans-serif;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
   font-size: 2rem;
   line-height: 3rem;
   margin-bottom: 2rem; }
@@ -159,6 +170,10 @@ article {
     margin: 1em 0em;
     text-align: left; }
   article .anchor-link > a {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     border-bottom: none;
     color: #fff; }
     article .anchor-link > a:hover > .pilcrow {
@@ -203,7 +218,7 @@ article {
     margin-bottom: 2rem; }
   article blockquote {
     background-color: #cccccc;
-    color: #39424E;
+    color: #5c00b3;
     padding: 2rem;
     margin: 2rem 1rem 2rem 1rem;
     border-radius: 3px; }
@@ -308,6 +323,11 @@ article {
   .video {
     width: auto;
     height: 100%; } }
+
+.introimage {
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%; }
 
 .go-left {
   justify-content: flex-start;

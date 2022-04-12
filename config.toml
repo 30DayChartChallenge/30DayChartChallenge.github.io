@@ -25,5 +25,9 @@ pygmentsCodefences       = true
     link = "twentytwo"
     text = "2022"
 
+[[params.mainMenu]]
+    link = "about"
+    text = "About"
+
 [imaging]
     quality = 75

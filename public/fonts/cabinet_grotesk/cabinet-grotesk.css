@@ -1,0 +1,131 @@
+/**
+ * @license
+ *
+ * Font Family: Cabinet Grotesk
+ * Designed by: Indian Type Foundry
+ * URL: https://www.fontshare.com/fonts/cabinet-grotesk
+ * © 2022 Indian Type Foundry
+ *
+ * Font Styles:
+ * Cabinet Grotesk Variable(Variable font)
+ * Cabinet Grotesk Thin
+ * Cabinet Grotesk Extralight
+ * Cabinet Grotesk Light
+ * Cabinet Grotesk Regular
+ * Cabinet Grotesk Medium
+ * Cabinet Grotesk Bold
+ * Cabinet Grotesk Extrabold         
+ * Cabinet Grotesk Black
+ *
+*/
+
+
+/**
+* This is a variable font
+* You can controll variable axes as shown below:
+* font-variation-settings: 'wght' 900.0;
+*
+* available axes:
+
+* 'wght' (range from 100.0 to 900.0)
+
+*/
+
+@font-face {
+  font-family: 'CabinetGrotesk-Variable';
+  src: url('CabinetGrotesk-Variable.woff2') format('woff2'),
+       url('CabinetGrotesk-Variable.woff') format('woff'),
+       url('CabinetGrotesk-Variable.ttf') format('truetype');
+       font-weight: 100 900;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CabinetGrotesk-Thin';
+  src: url('CabinetGrotesk-Thin.woff2') format('woff2'),
+       url('CabinetGrotesk-Thin.woff') format('woff'),
+       url('CabinetGrotesk-Thin.ttf') format('truetype');
+       font-weight: 100;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CabinetGrotesk-Extralight';
+  src: url('CabinetGrotesk-Extralight.woff2') format('woff2'),
+       url('CabinetGrotesk-Extralight.woff') format('woff'),
+       url('CabinetGrotesk-Extralight.ttf') format('truetype');
+       font-weight: 200;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CabinetGrotesk-Light';
+  src: url('CabinetGrotesk-Light.woff2') format('woff2'),
+       url('CabinetGrotesk-Light.woff') format('woff'),
+       url('CabinetGrotesk-Light.ttf') format('truetype');
+       font-weight: 300;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CabinetGrotesk-Regular';
+  src: url('CabinetGrotesk-Regular.woff2') format('woff2'),
+       url('CabinetGrotesk-Regular.woff') format('woff'),
+       url('CabinetGrotesk-Regular.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CabinetGrotesk-Medium';
+  src: url('CabinetGrotesk-Medium.woff2') format('woff2'),
+       url('CabinetGrotesk-Medium.woff') format('woff'),
+       url('CabinetGrotesk-Medium.ttf') format('truetype');
+       font-weight: 500;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CabinetGrotesk-Bold';
+  src: url('CabinetGrotesk-Bold.woff2') format('woff2'),
+       url('CabinetGrotesk-Bold.woff') format('woff'),
+       url('CabinetGrotesk-Bold.ttf') format('truetype');
+       font-weight: 700;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CabinetGrotesk-Extrabold';
+  src: url('CabinetGrotesk-Extrabold.woff2') format('woff2'),
+       url('CabinetGrotesk-Extrabold.woff') format('woff'),
+       url('CabinetGrotesk-Extrabold.ttf') format('truetype');
+       font-weight: 800;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CabinetGrotesk-Black';
+  src: url('CabinetGrotesk-Black.woff2') format('woff2'),
+       url('CabinetGrotesk-Black.woff') format('woff'),
+       url('CabinetGrotesk-Black.ttf') format('truetype');
+       font-weight: 900;
+       font-display: swap;
+       font-style: normal;
+}
+

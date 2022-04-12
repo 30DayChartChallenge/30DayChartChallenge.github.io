@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>30DayChartChallenge</title>
+    <link>https://30DayChartChallenge.github.io/</link>
+    <description>Recent content on 30DayChartChallenge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://30DayChartChallenge.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://30DayChartChallenge.github.io/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://30DayChartChallenge.github.io/about/</guid>
+      <description> What’s the #30DayChartChallenge?&amp;nbsp;¶ The challenge is inspired by the #30DayMapChallenge which was initiated by Topi Tjukanov in 2019.
+#30DayChartChallenge Team&amp;nbsp;¶  @CedScherer @dr_xeo @CedScherer @CedScherer  </description>
+    </item>
+    
+  </channel>
+</rss>
