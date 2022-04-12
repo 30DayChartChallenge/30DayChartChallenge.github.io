@@ -14,25 +14,25 @@
 <body>
     {{ block "main" . }}
     {{ block "section_title" . }}
-    <header class="wrap flex-container">
+    <header class="wrap flex-container2">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     {{ end }}
     <main class="wrap">
         {{ block "section_content" . }}
-        <article role="article" class="flex-container">{{ .Content }}</article>
+        <article role="article" class="flex-container2">{{ .Content }}</article>
         {{ end }}
 
         {{ block "bottom-menu" . }}
         {{ if .Site.Params.mainMenu }}
-        <nav role="navigation" class="flex-container bottom-menu">
+        <nav role="navigation" class="flex-container2 bottom-menu">
             {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" false) }}
         </nav>
         {{ end }}
         {{ end }}
     </main>
     {{ block "footer" . }}
-    <footer class="flex-container footer">{{ partial "footer.html" . }}</footer>
+    <footer class="flex-container2 footer">{{ partial "footer.html" . }}</footer>
     {{ end }}
     {{ end }}
 </body>

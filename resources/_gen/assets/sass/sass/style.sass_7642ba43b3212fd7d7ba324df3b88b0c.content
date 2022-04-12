@@ -7,14 +7,14 @@
 html {
   background-color: #5c00b3;
   font-family: "CabinetGrotesk-Regular", sans-serif;
-  font-size: 16px; }
+  font-size: 1.1rem; }
 
 body {
   font-size: 16px;
   font-family: "CabinetGrotesk-Regular", sans-serif;
   color: #fff;
   line-height: 2rem;
-  letter-spacing: 1.5px;
+  letter-spacing: 1.3px;
   text-shadow: none;
   display: flex;
   flex-direction: column;
@@ -30,10 +30,10 @@ header {
 h1, h2, h3, h4 {
   margin-bottom: 0.5em;
   font-family: "CabinetGrotesk-Regular", sans-serif;
-  opacity: 0.6; }
+  opacity: 0.85; }
 
 li {
-  opacity: 0.8; }
+  opacity: 0.7; }
   li a {
     opacity: 0.9; }
 
