@@ -5,40 +5,44 @@ date: 2018-02-13T13:42:49-05:00
 
 # The Challenge
 
-The <b style='font-weight:800;'>#30DayChartChallenge</b> is a community-driven challenge that happens each year during April. Every day, there is a certain prompt, grouped into five categories: comparisons, distributions, relationships, time series, and uncertainties. Anyone is welcome to contribute, no matter which data source or tool is used to create the visualizations.<br><br>
-The first edition was run in 2021 with 1,960 contributions from all over the world. The challenge is inspired by the <a href='https://30daymapchallenge.com/'>#30DayMapChallenge</a> which was initiated by Topi Tjukanov in 2019.
+The **#30DayChartChallenge** is a community-driven challenge that happens each year during April. Every day, there is a certain prompt, grouped into five categories: comparisons, distributions, relationships, time series, and uncertainties. Anyone is welcome to contribute, no matter which data source or tool is used to create the visualizations.  
+  
+The first edition was run in 2021 with 1,960 contributions from all over the world. The challenge is inspired by the [#30DayMapChallenge](https://30daymapchallenge.com/){:target="_blank"} which was initiated by Topi Tjukanov in 2019.
 
 # The Team
 
-<ul style='font-weight:400;'>
+
+<!--<ul style='font-weight:400;'>
     <li><a href="https://twitter.com/CedScherer" target='_blank'>Cédric Scherer</a></li>
     <li><a href="https://twitter.com/dr_xeo" target='_blank'>Dominic Royé</a></li>
     <li><a href="https://twitter.com/ShijiaWendy" target='_blank'>Wendy Shijia</a></li>
     <li><a href="https://twitter.com/shinysci" target='_blank'>Marco Sciaini</a></li>
-</ul>
+</ul>-->
+* [Cédric Scherer](https://twitter.com/CedScherer){:target="_blank"}
+* [Dominic Royé](https://twitter.com/dr_xeo){:target="_blank"}
+* [Wendy Shijia](https://twitter.com/ShijiaWendy){:target="_blank"}
+* [Marco Sciaini](https://twitter.com/shinysci){:target="_blank"}
 
 # How to Participate
       
 1. check the current prompt and the code of conduct
 2. pick any data you like
-3. create a visualization with a tool of your choice</li>
+3. create a visualization with a tool of your choice
 4. share your work on Twitter with the hashtag "#30DayChartChallenge" and the day (e.g. "#Day1")
 
 # Code of Conduct
 
-* Only publish charts that are your <b>original work</b>.
-* Give <b>credit</b> to the original data source and inspirational sources whenever possible.
-* <b>Respect</b> the opinions of others, keeping in mind cultural differences and diversity.
-* <b>Be friendly</b> and provide constructive feedback.</li>
-* Value the <b>diversity of purposes</b>: not every chart needs to follow <b>YOUR</b> idea of a perfect visualization.
+* Only publish charts that are your **original work**.
+* Give **credit** to the original data source and inspirational sources whenever possible.
+* **Respect** the opinions of others, keeping in mind cultural differences and diversity.
+* **Be friendly** and provide constructive feedback.
+* Value the **diversity of purposes**: not every chart needs to follow **YOUR** idea of a perfect visualization.
 
-<b>A data source or visualization is unacceptable if it:</b>
+**A data source or visualization is unacceptable if it:**
 
 * is being used to abuse, harass, or threaten others
 * is libellous, knowingly false, or misrepresents another person
 * infringes upon a copyright or trademark
 * violates an obligation of confidentiality
 * violates the privacy
-
-<footer class="flex-container footer"><a href='https://twitter.com/30DayChartChall' target='_blank'>#30DayChartChallenge</a></footer>
 
