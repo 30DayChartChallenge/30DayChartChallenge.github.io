@@ -5,7 +5,7 @@
     {{ partial "head.html" . }}
 </head>
 
-<body>
+<body style='font-size:1.25rem;'>
     {{ with .Site.Params.videoBackground }}
         <video class="video" autoplay muted preload loop playsinline>
             {{ range .sources }}
@@ -20,11 +20,13 @@
         {{ end }}
     {{ end }}
 
+    </main>
+
     <nav role="navigation" class="flex-container" id="splash">
 
       
         <p>
-            The #30DayChartChallenge is a data visualization challenge with the aim to create a data visualization on a certain topic for each day of April. Anyone is welcome to contribute, no matter which data source or tool is used to create the visualizations.
+            The <b style='font-weight:800;'>#30DayChartChallenge</b> is a community-driven event with the goal to create a data visualization on a certain topic each day of April.
         </p>
         <br>
         <br>
@@ -40,6 +42,10 @@
         {{ end }}
 
     </nav>
+
+    </main>
+
+    <footer class="flex-container footer"><a href='https://twitter.com/30DayChartChall' target="_blank">#30DayChartChallenge</a></footer>
 </body>
 
 </html>
