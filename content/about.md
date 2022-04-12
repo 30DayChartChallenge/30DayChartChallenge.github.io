@@ -7,7 +7,7 @@ date: 2018-02-13T13:42:49-05:00
 
 The **#30DayChartChallenge** is a community-driven challenge that happens each year during April. Every day, there is a certain prompt, grouped into five categories: comparisons, distributions, relationships, time series, and uncertainties. Anyone is welcome to contribute, no matter which data source or tool is used to create the visualizations.  
   
-The first edition was run in 2021 with 1,960 contributions from all over the world. The challenge is inspired by the [#30DayMapChallenge](https://30daymapchallenge.com/){:target="_blank"} which was initiated by Topi Tjukanov in 2019.
+The first edition was run in 2021 with 1,960 contributions from all over the world. The challenge is inspired by the [#30DayMapChallenge](https://30daymapchallenge.com/) which was initiated by Topi Tjukanov in 2019.
 
 # The Team
 
@@ -18,10 +18,10 @@ The first edition was run in 2021 with 1,960 contributions from all over the wor
     <li><a href="https://twitter.com/ShijiaWendy" target='_blank'>Wendy Shijia</a></li>
     <li><a href="https://twitter.com/shinysci" target='_blank'>Marco Sciaini</a></li>
 </ul>-->
-* [Cédric Scherer](https://twitter.com/CedScherer){:target="_blank"}
-* [Dominic Royé](https://twitter.com/dr_xeo){:target="_blank"}
-* [Wendy Shijia](https://twitter.com/ShijiaWendy){:target="_blank"}
-* [Marco Sciaini](https://twitter.com/shinysci){:target="_blank"}
+* [Cédric Scherer](https://twitter.com/CedScherer)
+* [Dominic Royé](https://twitter.com/dr_xeo)
+* [Wendy Shijia](https://twitter.com/ShijiaWendy)
+* [Marco Sciaini](https://twitter.com/shinysci)
 
 # How to Participate
       
