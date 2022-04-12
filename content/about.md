@@ -19,32 +19,26 @@ The first edition was run in 2021 with 1,960 contributions from all over the wor
 
 # How to Participate
       
-<ol>
-    <li>check the current prompt and the code of conduct</li>
-    <li>pick any data you like</li>
-    <li>create a visualization with a tool of your choice</li>
-    <li>share your work on Twitter with the hashtag "#30DayChartChallenge" and the day (e.g. "#Day1")</li>
-</ol>
+1. check the current prompt and the code of conduct
+2. pick any data you like
+3. create a visualization with a tool of your choice</li>
+4. share your work on Twitter with the hashtag "#30DayChartChallenge" and the day (e.g. "#Day1")
 
 # Code of Conduct
 
-<ul>
-    <li>Only publish charts that are your <b>original work</b>.
-    <li>Give <b>credit</b> to the original data source and inspirational sources whenever possible.
-    <li><b>Respect</b> the opinions of others, keeping in mind cultural differences and diversity.
-    <li><b>Be friendly</b> and provide constructive feedback.</li>
-    <li>Value the <b>diversity of purposes</b>: not every chart needs to follow <b>YOUR</b> idea of a perfect visualization.</li>
-</ul>
+* Only publish charts that are your <b>original work</b>.
+* Give <b>credit</b> to the original data source and inspirational sources whenever possible.
+* <b>Respect</b> the opinions of others, keeping in mind cultural differences and diversity.
+* <b>Be friendly</b> and provide constructive feedback.</li>
+* Value the <b>diversity of purposes</b>: not every chart needs to follow <b>YOUR</b> idea of a perfect visualization.
 
 <b>A data source or visualization is unacceptable if it:</b>
-<ul>
-    <li>is being used to abuse, harass, or threaten others
-    <li>is libellous, knowingly false, or misrepresents another person
-    <li>infringes upon a copyright or trademark
-    <li>violates an obligation of confidentiality
-    <li>violates the privacy
-<ul>
 
+* is being used to abuse, harass, or threaten others
+* is libellous, knowingly false, or misrepresents another person
+* infringes upon a copyright or trademark
+* violates an obligation of confidentiality
+* violates the privacy
 
 <footer class="flex-container footer"><a href='https://twitter.com/30DayChartChall' target='_blank'>#30DayChartChallenge</a></footer>
 
