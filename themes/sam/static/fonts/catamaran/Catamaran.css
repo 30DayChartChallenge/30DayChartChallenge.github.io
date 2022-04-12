@@ -1,0 +1,89 @@
+/* catamaran-100 - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 100;
+     src: local('Catamaran Thin'), local('Catamaran-Thin'),
+          url('catamaran-v6-latin_latin-ext-100.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-100.woff') format('woff');
+}
+   
+/* catamaran-200 - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 200;
+     src: local('Catamaran ExtraLight'), local('Catamaran-ExtraLight'),
+          url('catamaran-v6-latin_latin-ext-200.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-200.woff') format('woff');
+}
+   
+/* catamaran-300 - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 300;
+     src: local('Catamaran Light'), local('Catamaran-Light'),
+          url('catamaran-v6-latin_latin-ext-300.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-300.woff') format('woff');
+}
+   
+/* catamaran-regular - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 400;
+     src: local('Catamaran Regular'), local('Catamaran-Regular'),
+          url('catamaran-v6-latin_latin-ext-regular.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-regular.woff') format('woff');
+}
+   
+/* catamaran-500 - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 500;
+     src: local('Catamaran Medium'), local('Catamaran-Medium'),
+          url('catamaran-v6-latin_latin-ext-500.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-500.woff') format('woff');
+}
+   
+/* catamaran-600 - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 600;
+     src: local('Catamaran SemiBold'), local('Catamaran-SemiBold'),
+          url('catamaran-v6-latin_latin-ext-600.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-600.woff') format('woff');
+}
+   
+/* catamaran-700 - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 700;
+     src: local('Catamaran Bold'), local('Catamaran-Bold'),
+          url('catamaran-v6-latin_latin-ext-700.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-700.woff') format('woff');
+}
+   
+/* catamaran-800 - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 800;
+     src: local('Catamaran ExtraBold'), local('Catamaran-ExtraBold'),
+          url('catamaran-v6-latin_latin-ext-800.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-800.woff') format('woff');
+}
+   
+/* catamaran-900 - latin_latin-ext */
+@font-face {
+     font-family: 'Catamaran';
+     font-style: normal;
+     font-weight: 900;
+     src: local('Catamaran Black'), local('Catamaran-Black'),
+          url('catamaran-v6-latin_latin-ext-900.woff2') format('woff2'),
+          url('catamaran-v6-latin_latin-ext-900.woff') format('woff');
+}

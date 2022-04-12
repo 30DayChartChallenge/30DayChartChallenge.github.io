@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+<body>
+    {{ with .Site.Params.videoBackground }}
+        <video class="video" autoplay muted preload loop playsinline>
+            {{ range .sources }}
+                <source
+                    src="{{ .source }}"
+                    type="{{ .type }}"
+                    poster="{{ .poster }}" />
+            {{ end }}
+        </video>
+        {{ with .overlay }}
+            <div id="overlay" style="background: {{ . | safeCSS }};"></div>
+        {{ end }}
+    {{ end }}
+
+    <nav role="navigation" class="flex-container" id="splash">
+
+      
+        <p>
+            The #30DayChartChallenge is a data visualization challenge with the aim to create a data visualization on a certain topic for each day of April. Anyone is welcome to contribute, no matter which data source or tool is used to create the visualizations.
+        </p>
+        <br>
+        <br>
+        <br>
+        {{ if .Site.Params.mainMenu }}
+        {{ range .Site.Params.mainMenu }}
+            <a href="{{.link}}" class="big-link">
+                {{.text}}
+            </a>
+        {{ end }}
+
+        {{ else }}
+        {{ end }}
+
+    </nav>
+</body>
+
+</html>
