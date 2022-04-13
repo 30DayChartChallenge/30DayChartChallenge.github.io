@@ -28,7 +28,7 @@ The first edition was run in 2021 with 1,960 contributions from all over the wor
 1. check the current prompt and the code of conduct
 2. pick any data you like
 3. create a visualization with a tool of your choice
-4. share your work on Twitter with the hashtag "#30DayChartChallenge" and the day (e.g. "#Day1")
+4. share your work on Twitter with the hashtag **#30DayChartChallenge** and the day (e.g. **#Day1**)
 
 # Code of Conduct
 
