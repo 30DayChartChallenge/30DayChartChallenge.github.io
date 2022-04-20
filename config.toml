@@ -13,7 +13,7 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "favicon.ico"
     homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
-    footerText           = "30DayChartChallenge"
+    footerText           = "<a href='https://twitter.com/30DayChartChall' target='_blank'>#30DayChartChallenge</a>"
 
 # Metadata for Open Graph and Twitter
     description          = "30DayChartChallenge"               # Max 160 characters show in search results

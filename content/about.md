@@ -21,7 +21,7 @@ The first edition was run in 2021 with 1,960 contributions from all over the wor
 1. check the current prompt and the code of conduct
 2. pick any data you like
 3. create a visualization with a tool of your choice
-4. share your work on Twitter with the hashtag "#30DayChartChallenge" and the day (e.g. "#Day1")
+4. share your work on Twitter with the hashtag **#30DayChartChallenge** and the day (e.g. **#Day1**)
 
 # Code of Conduct
 
@@ -39,3 +39,7 @@ The first edition was run in 2021 with 1,960 contributions from all over the wor
 * violates an obligation of confidentiality
 * violates the privacy
 
+# Disclaimer
+
+The material and information contained on this website is for general purposes only. The services are provided "as is" and "as available" without warranties of any kind. You should not rely upon the material or information on the website as a basis for making any business, legal or any other decisions. The site owners will not be liable for any false, inaccurate, inappropriate or incomplete information presented on the website. Whilst we endeavor to keep the information up to date and correct, the site owners make no warranties of any kind, express or implied about completeness, accuracy, reliability, suitability or availability with respect to the website or information, products or related graphics contained on the website for any purpose. The site owners do not control, endorse, or take responsibility for any content available or linked to the services or the actions of any third party or user, including the copyright of data sources, trademarks, and images in general. Any reliance you place on such material is therefore strictly on your own risk.  
+  
