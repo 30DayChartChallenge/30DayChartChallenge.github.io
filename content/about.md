@@ -11,13 +11,6 @@ The first edition was run in 2021 with 1,960 contributions from all over the wor
 
 # The Team
 
-
-<!--<ul style='font-weight:400;'>
-    <li><a href="https://twitter.com/CedScherer" target='_blank'>Cédric Scherer</a></li>
-    <li><a href="https://twitter.com/dr_xeo" target='_blank'>Dominic Royé</a></li>
-    <li><a href="https://twitter.com/ShijiaWendy" target='_blank'>Wendy Shijia</a></li>
-    <li><a href="https://twitter.com/shinysci" target='_blank'>Marco Sciaini</a></li>
-</ul>-->
 * [Cédric Scherer](https://twitter.com/CedScherer)
 * [Dominic Royé](https://twitter.com/dr_xeo)
 * [Wendy Shijia](https://twitter.com/ShijiaWendy)
@@ -32,7 +25,7 @@ The first edition was run in 2021 with 1,960 contributions from all over the wor
 
 # Code of Conduct
 
-* Only publish charts that are your **original work**.
+- Only publish charts that are your **original work**.
 * Give **credit** to the original data source and inspirational sources whenever possible.
 * **Respect** the opinions of others, keeping in mind cultural differences and diversity.
 * **Be friendly** and provide constructive feedback.
